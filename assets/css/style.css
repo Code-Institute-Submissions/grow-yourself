@@ -114,3 +114,9 @@ header {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
 }
+
+i {
+    color: white;
+    font-size: 20px;
+    
+}
