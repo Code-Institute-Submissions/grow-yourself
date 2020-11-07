@@ -12,15 +12,6 @@
     padding-right: 150px;
 }
 
-.hero-image, .hero-image img {
-    width: 100%;
-}
-
-.hero-image {
-    background: url(assets/images/hero-image.png);
-    min-height: 500px;
-}
-
 footer a {
     background-color: #000000;
     color: #FAFAFA;
@@ -44,4 +35,67 @@ footer i {
 
 footer div {
     text-align: center;
+}
+
+
+/* -------------------------------------------------------------------------- BANNER */
+.banner {
+    background: url(../images/hero-image.png);
+    background-size: cover;
+    min-height: 500px;
+    padding-top: 150px;
+    font-family: "Raleway", sans-serif;
+}
+
+.banner h1 {
+    font-size: 64px;
+}
+
+.banner h2 {
+    font-size: 36px;
+}
+
+.banner button {
+    background-color: #FF7A00;
+    color: #FAFAFA;
+    width: 120px;
+    height: 50px;
+    margin-top: 25px;
+    font-weight: 700;
+}
+
+/* -------------------------------------------------------------------------- EXPLAINER */
+.explainer {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+}
+
+/* -------------------------------------------------------------------------- SUB-HEADER */
+.sub-header {
+    font-family: "Raleway", sans-serif;
+}
+
+.sub-header h3 {
+    font-size: 24px;
+}
+
+.sub-header h2 {
+    font-size: 48px;
+}
+
+/* -------------------------------------------------------------------------- PAGE-CONTENT */
+.page-content {
+    font-family: "Raleway", sans-serif;
+}
+
+.page-content button {
+    background-color: #FF7A00;
+    color: #FAFAFA;
+    width: 120px;
+    height: 50px;
+    font-weight: 700;
+}
+
+.page-content img {
+    margin-bottom: 20px;
 }
