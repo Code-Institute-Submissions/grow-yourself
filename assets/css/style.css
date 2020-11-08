@@ -99,22 +99,3 @@ footer div {
 .page-content img {
     margin-bottom: 20px;
 }
-
-.page-content div div {
-    padding-bottom: 30px;
-}
-
-/* -------------------------------------------------------------------------- CONTACT-FORM */
-.contact-form {
-    font-family: "Raleway", sans-serif;
-}
-
-.contact-form button {
-    display: block;
-    margin: auto;
-    background-color: #FF7A00;
-    color: #FAFAFA;
-    height: 50px;
-    font-weight: 700; 
-    border: none;
-}
