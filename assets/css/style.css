@@ -37,6 +37,10 @@ footer div {
     text-align: center;
 }
 
+footer .row {
+    justify-content: space-between; 
+}
+
 
 /* -------------------------------------------------------------------------- BANNER */
 .banner {
@@ -45,6 +49,7 @@ footer div {
     min-height: 500px;
     padding-top: 150px;
     font-family: "Raleway", sans-serif;
+    background-position: center;
 }
 
 .banner h1 {
@@ -88,9 +93,10 @@ footer div {
     font-family: "Raleway", sans-serif;
 }
 
-.page-content a {
-    background-color: #FF7A00;
-    color: #FAFAFA;
+.page-content button {
+    background-color: transparent;
+    border: 1px solid #FF7A00;
+    color: #000000;
     width: 120px;
     height: 50px;
     font-weight: 700;
@@ -104,6 +110,14 @@ footer div {
     padding-bottom: 30px;
 }
 
+.page-content div div h4 {
+    color: rgba(0,0,0,0.5);
+}
+
+.page-content div div p {
+    text-align: justify;
+}
+
 /* -------------------------------------------------------------------------- CONTACT-FORM */
 .contact-form {
     font-family: "Raleway", sans-serif;
@@ -115,75 +129,7 @@ footer div {
     background-color: #FF7A00;
     color: #FAFAFA;
     height: 50px;
+    width: 120px;
     font-weight: 700; 
     border: none;
-}
-
-@media screen and (max-width: 768px) {
-  html, body {
-    font-size: 12px;
-  }
-}
-
- 
-.popup {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: fixed;
-  width: 100vw;
-  height: 100vh;
-  bottom: 0;
-  right: 0;
-  z-index: 2;
-  visibility: hidden;
-  opacity: 0;
-  overflow: hidden;
-  transition: .64s ease-in-out;
-}
-.popup-inner {
-  position: relative;
-  bottom: -100vw;
-  right: -100vh;
-  display: flex;
-  align-items: center;
-  background-color: #fff;
-  transform: rotate(32deg);
-  transition: .64s ease-in-out;
-  box-shadow: 0 0 5px 2px #d9d9d9;
-  border-radius: 0.25rem;
-}
-
-.popuptext {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 1.5rem;
-}
-
-.popup:target {
-  visibility: visible;
-  opacity: 1;
-}
-.popup:target .popup-inner {
-  bottom: 0;
-  right: 0;
-  transform: rotate(0);
-}
-.closepopup {
-  position: absolute;
-  right: -1rem;
-  top: -1rem;
-  width: 3rem;
-  height: 3rem;
-  font-size: .875rem;
-  font-weight: 300;
-  border-radius: 100%;
-  background-color: #FF7A00;
-  z-index: 4;
-  color: #fff;
-  line-height: 3rem;
-  text-align: center;
-  cursor: pointer;
-  text-decoration: none;
 }
