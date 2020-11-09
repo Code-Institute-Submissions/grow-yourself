@@ -1,6 +1,21 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<img src="assets/images/logo.svg" style="margin: 0;">
 
-Welcome sreninc,
+Welcome,
+
+## Acknowledgements
+
+Bootstrap
+W3C
+Stackoverflow
+CodeInstitute
+webdevtrick.com for inspiration on the CSS/HTML popup form https://webdevtrick.com/popup-in-pure-css-and-html-get-example-with-source-code/
+
+## Languages
+
+CSS
+HTML
+Bootstrap Library
+Fontawesome logos
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
