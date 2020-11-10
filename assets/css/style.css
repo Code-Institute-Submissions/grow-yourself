@@ -166,9 +166,10 @@ footer .row {
     display: block;
     margin: auto;
     height: 50px;
-    width: 120px;
+    width: 200px;
     font-weight: 700; 
     border: none;
+    color: #FFFFFF;
 }
 
 @media only screen and (min-width: 992px) {
