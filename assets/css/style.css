@@ -1,5 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/* -------------------------------------------------------------------------- GENERAL */
+.button-secondary {
+    background-color: transparent;
+    border: 1px solid #FF7A00;
+    color: #000000;
+    width: 120px;
+    height: 50px;
+    font-weight: 700;
+}
+
+.button-secondary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255,122,0,.25);
+}
+
+.button-secondary:hover {
+    color: #FFFFFF;
+    background-color: #FF7A00;
+}
+
+.button-primary {
+    width: 120px;
+    height: 50px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.button-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255,122,0,.25);
+}
+
+.btn-secondary:hover {
+    color: #000000;
+    background-color: #899097;
+}
+/* -------------------------------------------------------------------------- COLORS */
+
+.background-orange {
+    background-color: #FF7A00;
+}
+
 .header-links {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -29,18 +69,17 @@ footer {
     font-size: 10px;
 }
 
+footer .row {
+    justify-content: center;
+}
+
 footer i {
     padding: 0 7px;
 }
 
-footer div {
+footer .row {
     text-align: center;
 }
-
-footer .row {
-    justify-content: space-between; 
-}
-
 
 /* -------------------------------------------------------------------------- BANNER */
 .banner {
@@ -126,10 +165,15 @@ footer .row {
 .contact-form button {
     display: block;
     margin: auto;
-    background-color: #FF7A00;
-    color: #FAFAFA;
     height: 50px;
     width: 120px;
     font-weight: 700; 
     border: none;
+}
+
+@media only screen and (min-width: 992px) {
+    footer .row {
+    justify-content: space-between; 
+}
+
 }
