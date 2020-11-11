@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* -------------------------------------------------------------------------- GENERAL */
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+.logo-adjustment {
+    padding-right: 150px;
+}
+
 .button-secondary {
     background-color: transparent;
     border: 1px solid #FF7A00;
@@ -34,29 +42,24 @@
     color: #000000;
     background-color: #899097;
 }
-/* -------------------------------------------------------------------------- COLORS */
-
-.background-orange {
-    background-color: #FF7A00;
-}
 
 .header-links {
-    font-family: "Raleway", sans-serif;
     font-size: 18px;
     padding-right: 1rem;
     padding-left: 1rem;
     font-weight: 600;
 }
-
-.logo-adjustment {
-    padding-right: 150px;
+/* -------------------------------------------------------------------------- COLORS */
+.background-orange {
+    background-color: #FF7A00;
 }
+
+/* -------------------------------------------------------------------------- FOOTER */
 
 footer a {
     background-color: #000000;
     color: #FAFAFA;
     text-decoration: none;
-    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 600;
 }
@@ -65,7 +68,6 @@ footer {
     background-color: #000000;
     color: #FAFAFA;
     text-decoration: none;
-    font-family: "Raleway", sans-serif;
     font-size: 10px;
 }
 
@@ -86,7 +88,6 @@ footer .row {
     min-height: 500px;
     padding-top: 150px;
     padding-bottom: 40px;
-    font-family: "Raleway", sans-serif;
 }
 
 .hero-index {
@@ -128,15 +129,10 @@ footer .row {
 
 /* -------------------------------------------------------------------------- EXPLAINER */
 .explainer {
-    font-family: "Raleway", sans-serif;
     font-size: 18px;
 }
 
 /* -------------------------------------------------------------------------- SUB-HEADER */
-.sub-header {
-    font-family: "Raleway", sans-serif;
-}
-
 .sub-header h3 {
     font-size: 24px;
 }
@@ -146,10 +142,6 @@ footer .row {
 }
 
 /* -------------------------------------------------------------------------- PAGE-CONTENT */
-.page-content {
-    font-family: "Raleway", sans-serif;
-}
-
 .page-content button {
     background-color: transparent;
     border: 1px solid #FF7A00;
@@ -176,10 +168,6 @@ footer .row {
 }
 
 /* -------------------------------------------------------------------------- CONTACT-FORM */
-.contact-form {
-    font-family: "Raleway", sans-serif;
-}
-
 .contact-form button {
     display: block;
     margin: auto;
@@ -190,6 +178,7 @@ footer .row {
     color: #FFFFFF;
 }
 
+/* -------------------------------------------------------------------------- POPUP MODAL */
 .popup-modal-button {
     display: block;
     margin: auto;
@@ -199,7 +188,7 @@ footer .row {
     border: none;
 }
 
-}
+/* -------------------------------------------------------------------------- MEDIA QUERIES */
 @media only screen and (min-width: 992px) {
     footer .row {
     justify-content: space-between; 
