@@ -49,13 +49,13 @@
     padding-left: 1rem;
     font-weight: 600;
 }
+
 /* -------------------------------------------------------------------------- COLORS */
 .background-orange {
     background-color: #FF7A00;
 }
 
 /* -------------------------------------------------------------------------- FOOTER */
-
 footer a {
     background-color: #000000;
     color: #FAFAFA;
@@ -193,6 +193,5 @@ footer .row {
 @media only screen and (min-width: 992px) {
     footer .row {
     justify-content: space-between; 
-}
-
+    }
 }
