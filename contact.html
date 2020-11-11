@@ -41,19 +41,15 @@
         <section>
             <!-- Banner at the top of the page with header image, title text and CTA -->
             <div class="container-fluid banner hero-contact text-center text-white">
-                <div class="row">
-                    <div class="col"><h1>CONTACT</h1></div>
-                </div>
-                <div class="row">
-                    <div class="col"><h2>LET US HELP YOU GROW</h2></div>
-                </div>
+                    <h1>CONTACT</h1>
+                    <h2>LET US HELP YOU GROW</h2>
             </div>
 
             <!-- Page content -->
             <div class="container-lg p-5 contact-form">
                 <div class="row justify-content-md-center">
-                    <div class="col-md-6">
-                        <form>
+                    <form class="col-md-6">
+                        
                             <div class="form-group pb-2">
                                 <label for="name">Your name</label>
                                 <input type="text" class="form-control" id="name" placeholder="Jane Doe" required>
@@ -64,7 +60,7 @@
                             </div>
                             <div class="form-group pb-2">
                                 <label for="topic">Example multiple select</label>
-                                <select class="form-control" id="topic" required>
+                                <select class="form-control" id="topic">
                                     <option>Personal Growth</option>
                                     <option>Events</option>
                                     <option>Coaching</option>
@@ -73,12 +69,12 @@
                                 </select>
                             </div>
                             <div class="form-group pb-2">
-                                <label for="textarea">Tell us how we can help</label>
-                                <textarea class="form-control" id="textarea" rows="3" required></textarea>
+                                <label for="message-comment">Tell us how we can help</label>
+                                <textarea class="form-control" id="message-comment" rows="3" required></textarea>
                             </div>
                             <button type="submit" class="btn background-orange">Let's Start Together</button>
                         </form>
-                    </div>
+                    
                 </div>
             </div>
         </section>
@@ -88,15 +84,11 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="p-4 order-1 order-lg-0"><i class="far fa-copyright"></i> 2020 Grow Yourself. All rights reserved.</div>
-                    <div class="p-4">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col"><a href="about.html">About</a></div>
-                                <div class="col"><a href="start-today.html">Start Today</a></div>
-                                <div class="col"><a href="events.html">Events</a></div>
-                                <div class="col"><a href="contact.html">Contact</a></div>
-                            </div>
-                        </div>
+                    <div class="p-4">   
+                        <a href="about.html" class="px-2">About</a>
+                        <a href="start-today.html" class="px-2">Start Today</a>
+                        <a href="events.html" class="px-2">Events</a>
+                        <a href="contact.html" class="px-2">Contact</a>
                     </div>
                     <div class="p-4">
                         <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
