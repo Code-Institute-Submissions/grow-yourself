@@ -64,6 +64,11 @@ footer a {
     font-weight: 600;
 }
 
+footer a:hover {
+    color: #FF7A00;
+    text-decoration: none;
+}
+
 footer {
     background-color: #000000;
     color: #FAFAFA;
