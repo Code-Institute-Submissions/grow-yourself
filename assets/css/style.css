@@ -83,12 +83,30 @@ footer .row {
 
 /* -------------------------------------------------------------------------- BANNER */
 .banner {
-    background: url(../images/hero-image.png);
-    background-size: cover;
     min-height: 500px;
     padding-top: 150px;
+    padding-bottom: 40px;
     font-family: "Raleway", sans-serif;
-    background-position: center;
+}
+
+.hero-index {
+    background: url(../images/hero-image-index.png) center / cover no-repeat;
+}
+
+.hero-about {
+    background: url(../images/hero-image-about.jpg) center / cover no-repeat;
+}
+
+.hero-start-today {
+    background: url(../images/hero-image-start-today.jpg) center / cover no-repeat;
+}
+
+.hero-events {
+    background: url(../images/hero-image-events.jpg) center / cover no-repeat;
+}
+
+.hero-contact {
+    background: url(../images/hero-image-contact.jpg) center / cover no-repeat;
 }
 
 .banner h1 {
