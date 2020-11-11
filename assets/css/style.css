@@ -88,6 +88,7 @@ footer .row {
     min-height: 500px;
     padding-top: 150px;
     padding-bottom: 40px;
+    opacity: 0.8;
 }
 
 .hero-index {
