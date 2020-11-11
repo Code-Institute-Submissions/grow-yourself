@@ -190,6 +190,16 @@ footer .row {
     color: #FFFFFF;
 }
 
+.popup-modal-button {
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 120px;
+    font-weight: 700; 
+    border: none;
+}
+
+}
 @media only screen and (min-width: 992px) {
     footer .row {
     justify-content: space-between; 
