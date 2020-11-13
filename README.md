@@ -213,6 +213,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
   - [Charles Deluvio](https://unsplash.com/@charlesdeluvio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
   - [Joshua Ness](https://unsplash.com/@theexplorerdad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+  - [Taylor Hernandez](https://unsplash.com/@taylormae?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 - Images used from speakers websites with credits to:
   - [Tony Robbins](https://www.tonyrobbins.com/)
