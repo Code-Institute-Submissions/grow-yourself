@@ -88,11 +88,11 @@ footer .row {
 }
 
 /* -------------------------------------------------------------------------- BANNER */
-.banner {
-    min-height: 500px;
+.banner-content {
+    min-height: 400px;
     padding-top: 150px;
     padding-bottom: 40px;
-    opacity: 0.8;
+    background: rgba(0, 0, 0, 0.4);
 }
 
 .hero-index {
