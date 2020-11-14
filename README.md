@@ -117,17 +117,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The [Lighthouse](https://developers.google.com/web/tools/lighthouse/) chrome dev tool was used to check quality issues on all pages on desktop and mobile. Results were used to improve performance as much as possible. Final results are below.
 -  Desktop
-    - [Homepage](assets/tests/desktop-index.html)
-    - [About](assets/tests/desktop-about.html)
-    - [Start Today](assets/tests/desktop-start-today.html)
-    - [Events](assets/tests/desktop-events.html)
-    - [Contact](assets/tests/desktop-contact.html)
+    - [Homepage](https://sreninc.github.io/grow-yourself/assets/tests/desktop-index.html)
+    - [About](https://sreninc.github.io/grow-yourself/assets/tests/desktop-about.html)
+    - [Start Today](https://sreninc.github.io/grow-yourself/assets/tests/desktop-start-today.html)
+    - [Events](https://sreninc.github.io/grow-yourself/assets/tests/desktop-events.html)
+    - [Contact](https://sreninc.github.io/grow-yourself/assets/tests/desktop-contact.html)
 -  Mobile
-    - [Homepage](assets/tests/mobile-index.html)
-    - [About](assets/tests/mobile-about.html)
-    - [Start Today](assets/tests/mobile-start-today.html)
-    - [Events](assets/tests/mobile-events.html)
-    - [Contact](assets/tests/mobile-contact.html)
+    - [Homepage](https://sreninc.github.io/grow-yourself/assets/tests/mobile-index.html)
+    - [About](https://sreninc.github.io/grow-yourself/assets/tests/mobile-about.html)
+    - [Start Today](https://sreninc.github.io/grow-yourself/assets/tests/mobile-start-today.html)
+    - [Events](https://sreninc.github.io/grow-yourself/assets/tests/mobile-events.html)
+    - [Contact](https://sreninc.github.io/grow-yourself/assets/tests/mobile-contact.html)
 
 ### Testing User Stories from User Experience (UX) Section
 
