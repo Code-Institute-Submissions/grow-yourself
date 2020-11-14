@@ -3,9 +3,9 @@
 # Grow Yourself Website
 [View the live website here.](https://sreninc.github.io/grow-yourself/)
 
-This is the main marketing website for Grow Yourself. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential clients.
+This website was created for people who are looking to improve their lives and work on personal development. It allows them to browse resources to get started with their first steps and to register for events being held by the worlds best personal development coaches.
 
-![Grow Yourself Logo](assets/images/mockups/multi-device.png)
+![Grow Yourself Website On Desktop, Tablet and Mobile](assets/images/mockups/multi-device.png)
 
 ## Table of Contents
 1. [User Experience](#user-experience-ux)
