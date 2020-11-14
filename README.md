@@ -7,6 +7,13 @@ This is the main marketing website for Grow Yourself. It is designed to be respo
 
 ![Grow Yourself Logo](assets/images/mockups/multi-device.png)
 
+## Table of Contents
+1. [User Experience](#user-experience-ux)
+2. [Features](#features)
+3. [Testing](#testing)
+4. [Deployment](#deployment)
+5. [Credits](#credits)
+
 ## User Experience (UX)
 * User stories
     * Visitor Goals
