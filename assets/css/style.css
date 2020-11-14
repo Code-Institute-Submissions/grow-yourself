@@ -49,11 +49,6 @@
     font-weight: 600;
 }
 
-nav {
-    height: 80px;
-    z-index: 1;
-}
-
 /* -------------------------------------------------------------------------- COLORS */
 .background-orange {
     background-color: #FF7A00;
