@@ -65,6 +65,8 @@ This is the main marketing website for Grow Yourself. It is designed to be respo
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Figma:](https://www.figma.com/)
     - Figma was used to created the [mockups](https://www.figma.com/file/A1ChicG7Wxh3EdnqN23oYN/CodeInstitute-Milestone-Project-1?node-id=39%3A168) during the design process.
+1. [Tiny PNG](https://tinypng.com/)
+    - Tiny PNG was used to optimze jpg and png images used across the site.
 
 ## Testing
 
@@ -77,6 +79,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     - [Start Today](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fsreninc.github.io%2Fgrow-yourself%2Fstart-today.html)
     - [Events](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fsreninc.github.io%2Fgrow-yourself%2Fevents.html)
     - [Contact](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fsreninc.github.io%2Fgrow-yourself%2Fcontact.html)
+-   [Web Page Test](https://www.webpagetest.org/)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -171,7 +174,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 ### Making a Local Clone
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/sreninc/grow-yourself)
-2. Under the repository name, click "Clone or download".
+2. Under the repository name, click the "Code" button and a dropdown menu will appear.
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
