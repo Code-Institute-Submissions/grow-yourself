@@ -1,9 +1,9 @@
 <img src="assets/images/logo.svg" style="margin: 0;">
 
 # Grow Yourself Website
-[View the live website here.](https://sreninc.github.io/grow-yourself/)
-
 This website was created for people who are looking to improve their lives and work on personal development. It allows them to browse resources to get started with their first steps and to register for events being held by the worlds best personal development coaches.
+
+[View the live website here.](https://sreninc.github.io/grow-yourself/)
 
 ![Grow Yourself Website On Desktop, Tablet and Mobile](assets/images/mockups/multi-device.png)
 
@@ -24,11 +24,11 @@ This website was created for people who are looking to improve their lives and w
         2. Build attendence for events
 * Design
     * Colour Scheme
-        * The two main colors used by Grow Yourself are green and orange
+        * The two main color used by Grow Yourself is orange used in all CTAs. The websites aesthetic is designed to be clean and crisp with images that emphasise beginnings and growth.  
     * Typography
-        * The font style used throughout the site is Raleway from Google Fontawesome
+        * The font style used throughout the site is Raleway from Google Fonts.
     * Imagery
-        * Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        * Imagery is important. The large, background hero image is designed to be striking, catch the user's attention and convey the feeling of new beginnings and growth. It also has a modern, energetic aesthetic.
     * Medium - Large Screen Mockups
         * [Homepage](assets/images/mockups/index.png)
         * [About](assets/images/mockups/about.png)
@@ -43,6 +43,41 @@ This website was created for people who are looking to improve their lives and w
         * [Contact](assets/images/mockups/mobile-contact.png)
     
 ## Features
+- [x] **Header** - allows user to easily navigate across all pages on any device
+    - The brand logo is positioned on the left and is visible on all pages, when clicked it will bring the user back to the homepage.
+    - Navigation links are in the middle of the header on desktop and stacked left aligned in a dropdown menu on smaller screens.
+    - When changing pages the appropriate link will be underlined so the user knows which page they are on.
+    - When hovered over navigation links change color and the mouse changes to pointer so the user knows they can click the link.
+- [x] **Page Banner**
+    - Each page has a banner with a hero image, title text and CTA on some pages.
+    - The text background has an opaque black background with low opacity to ensure the text is easily legible.
+    - The banner explainer text is responsive to avoid overspilling.
+- [x] **Accessibility**
+    - All images have alternative text.
+    - The hamburger menu has aria-label so users with screen readers know the menu is there.
+- [x] **Buttons**
+    - Primary buttons will change text color on hover and mouse to pointer to encourage clicks by users.
+    - Secondary buttons for events and start today items will change background color and text color on hover and mouse to pointer to encourage clicks by users while ensuring the buttons don't overwhelm users.
+- [x] **Responsiveness**
+    - All Pages are responsive with the same functionality regardless of the device.
+- [x] **Footer**
+    - Footer has been designed to be at the bottom of the page, regardless of the amount of content.
+    - All content has been spaced out to mirror the navigation links in the header creating an intuitive position.
+    - Social links have been grouped together and the individual social media links change color to orange on hover.
+    - The order of elements in the footer changes depending on the screen size to ensure a clean and consisten user experience across devices
+- [x] **Landing Page**
+    - Two CTA buttons to bring the user to the events page or start today page to access resources / book events.
+- [x] **Start Today**
+    - Responsive blocks for resources that link out to external sites in a new tab when clicked
+- [x] **Events**
+    - Responsive event blocks with images that when clicked open a pop up modal center screen with form for users to sign up for event.
+- [x] **Contact**
+    - A contact form for users to get in touch with a topic dropdown to direct the query to the right person. When submitted it reloads the contact page. 
+
+### Future Features
+- [ ] Submittable forms that will generate emails to the site owner and site user on submission.
+- [ ] A login for users to allow downloadable resources monitored by the site.
+- [ ] The option for users to rate and comment on resources and events.
 
 ### Languages Used
 
