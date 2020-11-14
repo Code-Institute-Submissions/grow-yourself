@@ -49,6 +49,10 @@
     font-weight: 600;
 }
 
+nav {
+    height: 80px;
+}
+
 /* -------------------------------------------------------------------------- COLORS */
 .background-orange {
     background-color: #FF7A00;
