@@ -114,7 +114,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     - [Start Today](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fsreninc.github.io%2Fgrow-yourself%2Fstart-today.html)
     - [Events](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fsreninc.github.io%2Fgrow-yourself%2Fevents.html)
     - [Contact](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fsreninc.github.io%2Fgrow-yourself%2Fcontact.html)
--   [Web Page Test](https://www.webpagetest.org/)
+
+The [Lighthouse](https://developers.google.com/web/tools/lighthouse/) chrome dev tool was used to check quality issues on all pages on desktop and mobile. Results were used to improve performance as much as possible. Final results are below.
+-  Desktop
+    - [Homepage](assets/tests/desktop-index.html)
+    - [About](assets/tests/desktop-about.html)
+    - [Start Today](assets/tests/desktop-start-today.html)
+    - [Events](assets/tests/desktop-events.html)
+    - [Contact](assets/tests/desktop-contact.html)
+-  Mobile
+    - [Homepage](assets/tests/mobile-index.html)
+    - [About](assets/tests/mobile-about.html)
+    - [Start Today](assets/tests/mobile-start-today.html)
+    - [Events](assets/tests/mobile-events.html)
+    - [Contact](assets/tests/mobile-contact.html)
 
 ### Testing User Stories from User Experience (UX) Section
 
