@@ -51,24 +51,20 @@ This is the main marketing website for Grow Yourself. It is designed to be respo
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap 4.5.3:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Raleway' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+    - Font Awesome was used on some pages of the website to add icons for aesthetic and UX purposes as well as for the websites favicon.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+1. [Figma:](https://www.figma.com/)
+    - Figma was used to created the [mockups](https://www.figma.com/file/A1ChicG7Wxh3EdnqN23oYN/CodeInstitute-Milestone-Project-1?node-id=39%3A168) during the design process.
 
 ## Testing
 
