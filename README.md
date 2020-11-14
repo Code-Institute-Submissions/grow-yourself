@@ -138,7 +138,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Ecosia and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, Samsung Galaxy Pro & iPad2.
--   A large amount of testing was done to ensure that all pages were linking correctly.
+-   All links were tested on each page to ensure that they functioned as expected.
+-   Page load speeds were tested on the devices mentioned above using mobile and broadband internet to ensure satisfactory user experience.
 -   Friends, colleagues and fellow students were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
@@ -157,7 +158,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://sreninc.github.io/grow-yourself/) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
