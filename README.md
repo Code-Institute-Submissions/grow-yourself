@@ -135,6 +135,12 @@ The [Lighthouse](https://developers.google.com/web/tools/lighthouse/) chrome dev
     - [Events](https://sreninc.github.io/grow-yourself/assets/tests/mobile-events.html)
     - [Contact](https://sreninc.github.io/grow-yourself/assets/tests/mobile-contact.html)
 
+Multiple changes were made during testing with Lighthouse which are detailed below.
+1. Reduce quality of images to increase load speed without compromising on user expereience.
+1. Added noopener tag to all external links to increase site speed and conform to internet standards.
+1. Updated favicon code to work across devices.
+1. Checked color contrast on primary buttons where background is orange and text is white. While this fails standard contrast checks I decided not to change the color scheme for primary buttons as user testing across age ranges with poor eyesight didn't result in the text being unreadable. 
+
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Ecosia and Safari browsers.
