@@ -145,7 +145,10 @@ The [Lighthouse](https://developers.google.com/web/tools/lighthouse/) chrome dev
 
 ### Known Bugs
 
--   15.11.2020 iPhone 7 testing on Safari & Ecosia shows the nav bar turns transparent. Cannot replicate on chrome dev tools or other windows emulators to troubleshoot. Have tried 4 different fixes to no avail.
+-   15.11.2020 iPhone 7 testing on Safari & Ecosia shows the nav bar turns transparent. Cannot replicate on chrome dev tools or other windows emulators to troubleshoot. Have tried 4 different fixes to no avail. Fixes attempted are below.
+    - Changed z-index of banner and header.
+    - Forced height and background color on header and nav.
+    - Remove and recode header and navigation incase of type error not affecting chrome.
 
 ## Deployment
 
