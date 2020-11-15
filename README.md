@@ -24,6 +24,10 @@ This website was created for people who are looking to improve their lives and w
         1. As the owner of the site I want people to access the get started resources and make a purchase through our affiliate links.
         1. As the owner of the site I want people to register for events that we will make commission or direct revenue from.
         1. As the owner of the site I want people who are unsure of what to do or who have questions to contact us so we can guide them and also collect their contact information for our newsletter.
+    * Goal Screenshots From Finished Website    
+        1. [Access Resources](assets/images/ux-stories/access-resources.png)
+        1. [Access Events](assets/images/ux-stories/access-events.png)
+        1. [Access Contact](assets/images/ux-stories/access-contact.png)
 * Design
     * Colour Scheme
         * The two main color used by Grow Yourself is orange used in all CTAs. The websites aesthetic is designed to be clean and crisp with images that emphasise beginnings and growth.  
